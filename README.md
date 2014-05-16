@@ -8,7 +8,7 @@ Uses json and prop variables. The simple function is named jsonval.
 Example usage:
 
 		json=$(/usr/bin/curl http:\\... \
-			...
+			... 
 			)
 
 		echo " --- Result ---"
