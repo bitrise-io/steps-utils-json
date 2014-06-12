@@ -1,8 +1,4 @@
 #!/usr/bin/ruby
-# @Author: Tamas Szucs
-# @Date:   2014-05-16 16:47:50
-# @Last Modified by:   Tamas Szucs
-# @Last Modified time: 2014-05-16 18:33:17
 
 require 'rubygems'
 require 'json'
